@@ -1,6 +1,6 @@
-appId: com.clarify-ai.app
-productName: Clarify AI
-copyright: Copyright (c) 2024
+appId: com.eletron-starter.app
+productName: Electron Starter
+copyright: Copyright (c) 2026
 
 directories:
   output: dist
