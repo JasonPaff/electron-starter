@@ -1,10 +1,10 @@
-import { defineConfig } from 'drizzle-kit';
+import { defineConfig } from "drizzle-kit";
 
 export default defineConfig({
   dbCredentials: {
-    url: './electron-starter-dev.db',
+    url: "./electron-starter-dev.db",
   },
-  dialect: 'sqlite',
-  out: './drizzle',
-  schema: [''],
+  dialect: "sqlite",
+  out: "./drizzle",
+  schema: [""],
 });
