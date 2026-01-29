@@ -20,9 +20,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  description:
-    "Transform informal feature requests into actionable implementation plans using AI",
-  title: "Clarify",
+  description: "Electron Starter",
+  title: "Electron Starter",
 };
 
 type RootLayoutProps = RequiredChildren;
